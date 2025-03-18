@@ -1,4 +1,4 @@
-package SodokuGame;
+package SudokuGame;
 
 import java.util.Scanner;
 
